@@ -1,0 +1,61 @@
+/**********Class*********/
+.container {
+    width: 1310px;
+}
+.left-bar {
+    background-color: #e3e3e3;
+    padding: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+/**********Class*********/
+
+/********Box*******/
+.card-1 {
+    float: left;
+    height: 120px;
+    width: 535px;
+    background-color: aqua;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right:5px;
+}
+.card-2 {
+    float: left;
+    height: 105px;
+    width: 205px;
+    background-color: aqua;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right:5px;
+}
+.card-3 {
+    float: left;
+    height: 120px;
+    width: 570px;
+    background-color: aqua;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 5px;
+    float: left;
+    margin-bottom: 20px;
+}
+a {
+    color: blue;
+}
+/********Box*******/
+
+/********Footer********/
+.nav {
+    text-align: center;   
+}
+/********Footer********/
